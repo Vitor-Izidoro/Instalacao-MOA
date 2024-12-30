@@ -16,3 +16,6 @@ após baixar, siga o seguinte procedimento, escreva as mesmas coisas que estão 
 agora, na imagem a baixo, a parte de "VM arguments", estou definindo o quanto de memória RAM vou disponibilizar para os treinamentos:
 ![image](https://github.com/user-attachments/assets/bf9021c4-e4a4-4841-a189-9083b5cced93)
 
+
+agora, basta clicar para rodar a nova configuração:
+![image](https://github.com/user-attachments/assets/1a416deb-9f79-413b-a5ee-c3f7d45089c8)
